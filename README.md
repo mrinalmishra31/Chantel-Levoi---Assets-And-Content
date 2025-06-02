@@ -1,86 +1,70 @@
-# ✨ Chantel Levoi – Assets & Content Repository
+# 🎭 Chantel Levoi – Assets & Content Repository
 
-Welcome to the official repository of **Chantel Levoi's** branding, digital content, campaign assets, and marketing research. This hub hosts the entire creative and strategic collection behind the **“Own the STAGE”** campaign—crafted for high-impact brand storytelling at the **Tribeca Festival 2025** and beyond.
+Welcome to the official repository for **Chantel Levoi's “Own the STAGE” campaign**, a luxury hospitality and front-of-house experience showcased during **Tribeca Festival 2025**. This repository includes campaign content, research insights, social media posts, and a weekly content calendar.
 
-> 🎯 Tagline: **Behind Every Scene, There’s Levoi’s Gleam.**
-
----
-
-## 🪄 Campaign Overview: “Own the STAGE”
-
-**Chantel Levoi** is redefining luxury hospitality and front-of-house elegance. The "Own the STAGE" campaign is a visual celebration of detail, identity, and excellence—brought to life through curated visuals, content calendars, and social-first storytelling.
-
-🧩 **Core Message**:
-> "Luxury lives in the little things."
+> 🎯 **Tagline**: *Behind Every Scene, There’s Levoi’s Gleam.*
 
 ---
 
-## 📁 What’s Inside
+## 🎥 Campaign Overview
 
-| File/Asset | Description |
-|------------|-------------|
-| [Insta Post1 Demo.png](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Insta%20Post1%20Demo.png) | Instagram campaign visual focused on detail and presentation |
-| [Launch Linkedin Poster Demo.png](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Launch%20Linkedin%20poster%20Demo.png) | Poster introducing the “Own the STAGE” campaign on LinkedIn |
-| [Linkedin Post 1 Demo.png](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Linkedin%20Post%201%20Demo.png) | First LinkedIn post visual for corporate branding |
-| [Linkedin Post Demo.png](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Linkedin%20Post%20Demo.png) | Additional LinkedIn branding visual |
-| [Platform Research.png](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Platform%20Research.png) | Social media platform performance insights |
-| [Platform Research 2.png](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Platform%20Research%202.png) | Follower and engagement breakdown by platform |
-| [Own the STAGE weekly content calendar.pdf](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Own%20the%20STAGE%20weekly%20content%20calendar.pdf) | Full weekly social media posting plan |
-| [Chantel Levoi Website Analysis.pdf](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Chantel%20Levoi%20Website%20Analysis.pdf) | Web traffic and engagement analytics via SimilarWeb |
-| [OwntheSTAGE Launch Ree Demol.mp4](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/OwntheSTAGE%20Launch%20Ree%20Demol.mp4) | Promotional video reel created for Tribeca Festival 2025 |
+The **“Own the STAGE”** campaign highlights Chantel Levoi’s luxury brand identity, focusing on meticulous detail, elegant service, and theatrical presentation in hospitality settings.
 
 ---
 
-## 📊 Research Insights
+## 📊 Platform & Website Research
 
-🔹 **Website Behavior** (Dec '24 – Feb '25)
-- Visits: 186 (100% desktop usage)
-- Unique Visitors: 31
+Chantel Levoi’s online and platform performance data:
+
+### 📄 Website Analysis
+- Total Visits: 186 (Dec '24 – Feb '25)
+- Device: 100% Desktop
 - Bounce Rate: 49.75%
-- Pages per Visit: 1.01  
-- Top Traffic Sources:  
-  - Direct (41.48%)  
-  - Organic (35.79%)  
-  - Referrals (12.16%)
+- Pages per Visit: 1.01
 
-🔹 **Social Media Preference**  
-Instagram has the highest user engagement among platforms, followed by Facebook and LinkedIn. Statista insights back up the platform strategy for the campaign.
+📄 [Chantel Levoi Website Analysis.pdf](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Chantel%20Levoi%20Website%20Analysis.pdf)
 
----
+### 📊 Platform Performance
 
-## 🧠 Visual Identity & Campaign Aesthetics
+<img src="https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Platform%20Research.png" width="600"/>
 
-| Theme | Key Elements |
-|-------|--------------|
-| `Luxury in Details` | Black and gold color schemes, VIP identifiers, polished service tools |
-| `Signature Levoi` | Branded tags, FOH badges, crisp linens, Levoi lighting |
-| `#OwnTheSTAGE` | Staff motion stills, luxury prep footage, detailed name cards |
-
-🎨 **Color Palette**: #000000, #ffffff, #1c1c1c, #d39f75  
-🔠 **Fonts**: Poppins (Headings), Sans-serif (Body)
+<img src="https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Platform%20Research%202.png" width="600"/>
 
 ---
 
-## 📅 Weekly Content Calendar Overview
+## 📅 Weekly Content Calendar
 
-**Key Weekly Themes:**
-- **Monday** – Setup Stories: Table setups, props, FOH tags  
-- **Wednesday** – FOH Stories: Faces and elegance of the team  
-- **Friday** – Behind the Scenes: What brings Levoi magic alive  
-- **Weekends** – Reels and motion content
+A detailed posting plan for Instagram and LinkedIn:
 
-🗂 Refer to: [Own the STAGE weekly content calendar.pdf](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Own%20the%20STAGE%20weekly%20content%20calendar.pdf)
+📄 [Own the STAGE Weekly Content Calendar.pdf](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Own%20the%20STAGE%20weekly%20content%20calendar.pdf)
+
+---
+
+## 📱 Instagram & LinkedIn Post Designs
+
+### 🔸 Instagram Visual
+<img src="https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Insta%20Post1%20Demo.png" width="400"/>
+
+### 🔸 LinkedIn Launch Poster
+<img src="https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Launch%20Linkedin%20poster%20Demo.png" width="400"/>
+
+### 🔸 LinkedIn Post 1
+<img src="https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Linkedin%20Post%201%20Demo.png" width="400"/>
+
+### 🔸 LinkedIn Post Demo
+<img src="https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/Linkedin%20Post%20Demo.png" width="400"/>
 
 ---
 
 ## 🎬 Launch Video
 
-📹 [OwntheSTAGE Launch Reel Demo.mp4](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/OwntheSTAGE%20Launch%20Ree%20Demol.mp4)  
-This campaign reel highlights Levoi’s behind-the-scenes elegance during Tribeca Festival 2025.
+Watch the official campaign reel designed for Tribeca 2025:
+
+🎥 [OwntheSTAGE Launch Reel Demo.mp4](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/OwntheSTAGE%20Launch%20Ree%20Demol.mp4)
 
 ---
 
-## 📢 Hashtags in Focus
+## 🏷️ Hashtags Used
 
 ```text
 #OwnTheSTAGE  
