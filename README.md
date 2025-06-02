@@ -60,7 +60,7 @@ A detailed posting plan for Instagram and LinkedIn:
 
 Watch the official campaign reel designed for Tribeca 2025:
 
-🎥 [OwntheSTAGE Launch Reel Demo.mp4](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/OwntheSTAGE%20Launch%20Ree%20Demol.mp4)
+🎥 [OwntheSTAGE Launch Reel Demo.mp4](https://github.com/mrinalmishra31/Chantel-Levoi---Assets-And-Content/blob/main/OwntheSTAGE%20Launch%20Reel%20Demo.mp4)
 
 ---
 
