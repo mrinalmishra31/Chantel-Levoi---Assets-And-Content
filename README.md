@@ -71,3 +71,13 @@ Watch the official campaign reel designed for Tribeca 2025:
 #LuxuryInDetails  
 #SignatureLevoi  
 #Tribeca2025
+
+---
+
+## 📢 License
+
+This project is part of an academic coursework and is provided for educational reference only.
+
+---
+
+© 2024 | Created by Mrinal Mishra
