@@ -66,7 +66,6 @@ Watch the official campaign reel designed for Tribeca 2025:
 
 ## 🏷️ Hashtags Used
 
-```text
 #OwnTheSTAGE  
 #LuxuryInDetails  
 #SignatureLevoi  
